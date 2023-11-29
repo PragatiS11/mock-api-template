@@ -40,5 +40,11 @@
       "category": "Music",
       "price": 400
     }
+  ],
+
+  "pragati": [
+    {"code" : "101"},
+    {"code" : "102"}
   ]
+
 }
